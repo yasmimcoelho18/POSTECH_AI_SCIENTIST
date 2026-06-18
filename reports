@@ -1,1 +1,3 @@
-
+git add .
+git commit -m "Cria a pasta nova e adiciona os arquivos"
+git push origin main
